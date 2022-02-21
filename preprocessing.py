@@ -12,4 +12,3 @@ def date_type_converter_년월일(value):
     if len(day) == 1 :
         day = '0' + day
     return year + '-' + month + '-' + day
-
